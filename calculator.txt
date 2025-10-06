@@ -1,0 +1,4 @@
+"Add: x + y = z" 
+"Sub: a - b = z" 
+"Multipliy: a * b = z" 
+"Divid: a / b = z" 
